@@ -1,0 +1,30 @@
+@model VinylStore.Record
+
+<h2>Удаление пластинки</h2>
+<h3 class="text-danger">Вы уверены, что хотите удалить эту пластинку?</h3>
+
+<div>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Title)</dt>
+        <dd class="col-sm-9">@Model.Title</dd>
+        
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Artist)</dt>
+        <dd class="col-sm-9">@Model.Artist</dd>
+        
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Genre)</dt>
+        <dd class="col-sm-9">@Model.Genre?.Name</dd>
+
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Year)</dt>
+        <dd class="col-sm-9">@Model.Year</dd>
+
+        <dt class="col-sm-3">@Html.DisplayNameFor(model => model.Price)</dt>
+        <dd class="col-sm-9">@Model.Price ₽</dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="Id" />
+        <button type="submit" class="btn btn-danger">Да, удалить</button>
+        <a asp-action="Index" class="btn btn-secondary">Отмена</a>
+    </form>
+</div>

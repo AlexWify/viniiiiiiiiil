@@ -20,57 +20,65 @@ build_property.TargetFrameworkVersion = v10.0
 build_property.EntryPointFilePath = 
 build_property.RootNamespace = VinylStore
 build_property.RootNamespace = VinylStore
-build_property.ProjectDir = D:\xyetaebanayablyatyanehochuetodelat\VinylStore\
+build_property.ProjectDir = D:\xyetaebanayablyatyanehochuetodelat\vinylstore\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 10.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = D:\xyetaebanayablyatyanehochuetodelat\VinylStore
+build_property.MSBuildProjectDirectory = D:\xyetaebanayablyatyanehochuetodelat\vinylstore
 build_property._RazorSourceGeneratorDebug = 
 build_property.EffectiveAnalysisLevelStyle = 10.0
 build_property.EnableCodeStyleSeverity = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Genres/Create.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Genres/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXENyZWF0ZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Genres/Index.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Genres/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcR2VucmVzXEluZGV4LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Home/Index.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Home/Privacy.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Records/Create.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Records/Create.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb3Jkc1xDcmVhdGUuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Records/Index.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Records/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb3Jkc1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Records/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb3Jkc1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Records/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUmVjb3Jkc1xJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Shared/Error.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Shared/_ValidationScriptsPartial.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/_ViewImports.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/_ViewStart.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[D:/xyetaebanayablyatyanehochuetodelat/VinylStore/Views/Shared/_Layout.cshtml]
+[D:/xyetaebanayablyatyanehochuetodelat/vinylstore/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-oh5nm1zz9k

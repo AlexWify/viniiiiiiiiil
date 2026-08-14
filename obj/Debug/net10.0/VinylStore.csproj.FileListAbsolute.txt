@@ -211,3 +211,4 @@ D:\xyetaebanayablyatyanehochuetodelat\vinylstore\obj\Debug\net10.0\refint\VinylS
 D:\xyetaebanayablyatyanehochuetodelat\vinylstore\obj\Debug\net10.0\VinylStore.pdb
 D:\xyetaebanayablyatyanehochuetodelat\vinylstore\obj\Debug\net10.0\VinylStore.genruntimeconfig.cache
 D:\xyetaebanayablyatyanehochuetodelat\vinylstore\obj\Debug\net10.0\ref\VinylStore.dll
+D:\xyetaebanayablyatyanehochuetodelat\vinylstore\obj\Debug\net10.0\VinylStore.sourcelink.json
